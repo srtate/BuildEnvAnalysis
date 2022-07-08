@@ -1,0 +1,7 @@
+ERROR - package db inconsistency - impossible to build binutils-arm-none-eabi
+ERROR - package db inconsistency - impossible to build gcc-arm-none-eabi
+ERROR - package db inconsistency - impossible to build gnugk
+ERROR - package db inconsistency - impossible to build leiningen-clojure
+ERROR - package db inconsistency - impossible to build libstdc++-arm-none-eabi
+ERROR - package db inconsistency - impossible to build newlib
+
