@@ -16,6 +16,6 @@ can be found in `src/PackageQuery` where the `get_graphs.sh` shell
 script runs the appropriate Python code.
 
 The exact graphs generated on our systems, for Ubuntu LTS releases
-from 12.04 through 20.04, as well as the "TopX" graphs (see the
+from 14.04 through 20.04, as well as the "TopX" graphs (see the
 paper), are in the `graphs` directory.
 
